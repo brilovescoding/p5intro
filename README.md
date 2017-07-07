@@ -55,10 +55,10 @@ Transition:
 
 #### Encourage extensions! 
 * Make it your own! 
- * Make it move at a different speed
- * Make your own image/shape 
- * Make it start in a random direction/location each time it starts
- * Change the code so when it hits the corner something happens (colors change, sound happens?)
- * Add in interactivity (make it when it bounces, it changes color, or when you click the screen the background changes color…)
- * … other
+  * Make it move at a different speed
+  * Make your own image/shape 
+  * Make it start in a random direction/location each time it starts
+  * Change the code so when it hits the corner something happens (colors change, sound happens?)
+  * Add in interactivity (make it when it bounces, it changes color, or when you click the screen the background changes color…)
+  * … other
 
