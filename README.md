@@ -45,20 +45,20 @@ Transition:
 + Ask students to predict with a partner how they might get the image to bounce off the screen.
 + Gather student generated ideas and do a code-along to make the bounce happen.
 
-+ Ask students *"What could we do to make this better?"*
-++ Make the image so it bounced off both ends
-++ Make the image so it bounces off the screen perfectly (not just off the screen)
-++ Make the image move in the y direction too
+* Ask students *"What could we do to make this better?"*
+ * Make the image so it bounced off both ends
+ * Make the image so it bounces off the screen perfectly (not just off the screen)
+ * Make the image move in the y direction too
 
 #### Allow students to solve the movement problems AND add movement in the y direction
 + Monitor students and bring the class back together to share solutions and troubleshoot problems
 
 #### Encourage extensions! 
-+ Make it your own! 
-++ Make it move at a different speed
-++ Make your own image/shape 
-++ Make it start in a random direction/location each time it starts
-++ Change the code so when it hits the corner something happens (colors change, sound happens?)
-++ Add in interactivity (make it when it bounces, it changes color, or when you click the screen the background changes color…)
-++ … other
+* Make it your own! 
+ * Make it move at a different speed
+ * Make your own image/shape 
+ * Make it start in a random direction/location each time it starts
+ * Change the code so when it hits the corner something happens (colors change, sound happens?)
+ * Add in interactivity (make it when it bounces, it changes color, or when you click the screen the background changes color…)
+ * … other
 
