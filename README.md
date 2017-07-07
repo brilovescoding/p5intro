@@ -10,7 +10,9 @@ Students will be able to
 
 ### Hook
 Show video from "The Office" (attached here or found at [this link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiX2ZTjwffUAhUGdT4KHbtvANQQuAIIKTAA&url=http%3A%2F%2Fwww.godtube.com%2Fwatch%2F%3Fv%3DJJBJFCNU&usg=AFQjCNFn-kQjAoiL0w_j0CRY40owbPUagA))
-Transition: *Animation is exciting.  Today, we are going to use p5 to re-create the animation from The Office"*
+
+Transition: 
+*"Animation is exciting.  Today, we are going to use p5 to re-create the animation from The Office"*
 
 ### Key "Beats" of the lesson
 + Set-up cloud 9 envirioment
@@ -34,11 +36,11 @@ Transition: *Animation is exciting.  Today, we are going to use p5 to re-create 
 + Show that the loop re-draws the image leaving a "path" behind it, thus you need to clear the screen.
 
 #### Indentify why the movement isn't perfect... yet
-+ Ask students *"What could we do to make this better?"*
-++ Make the image bounce off the screen
-++ Make the image so it bounced off both ends
-++ Make the image so it bounces off the screen perfectly (not just off the screen)
-++ Make the image move in the y direction too
+* Ask students *"What could we do to make this better?"*
+  * Make the image bounce off the screen
+  * Make the image so it bounced off both ends
+  * Make the image so it bounces off the screen perfectly (not just off the screen)
+  * Make the image move in the y direction too
 
 + Ask students to predict with a partner how they might get the image to bounce off the screen.
 + Gather student generated ideas and do a code-along to make the bounce happen.
