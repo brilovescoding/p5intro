@@ -1,4 +1,5 @@
-# p5intro
+# p5 Introduction Lesson:
+## Recreating the Bouncing DVD Logo
 
 ### Lesson Goals: 
 Students will be able to
