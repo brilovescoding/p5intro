@@ -28,7 +28,6 @@ Transition:
 + Show how to get the preview
 
 #### Get image on the screen
-+ 
 
 #### Get image to move in x direction
 + Introduce variables by declaring a global variable dvdx
